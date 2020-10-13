@@ -34,6 +34,8 @@
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
          </a> 
         <!--
+         <p>I'm a 2019 Computer Engineering Graduate from Pune University, currently working as Software Developer, at TIAA GBS Pune. Worked on ML and NLP for my Final Year Project. Developed and Deployed an Android app on Playstore as an hobby project.
+         </p>
         <a href="https://www.instagram.com/madebygaurav">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
          </a>
