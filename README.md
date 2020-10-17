@@ -1,5 +1,9 @@
 <html>
+   <head>
+      <link rel="stylesheet" href="devicon.css">
+   </head>   
    <body>
+     <i class="devicon-git-plain"></i>
      <h1 align="center"> Hi, I'm Jessica Silvano</h1>     
      <h3 align="center"> I'm a web and mobile developer on the rise!</h3> 
       <h2 align="center">Bio</h2>
