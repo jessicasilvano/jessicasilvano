@@ -1,6 +1,6 @@
 <html>
    <body>
-     <h1 align="center"> Hi I'm Jessica Silvano  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>     
+     <h1 align="center"> Hi, I'm Jessica Silvano</h1>     
      <h3 align="center"> I'm a web and mobile developer on the rise!</h3> 
       <h2 align="center">Bio</h2>
       <p align="center">
