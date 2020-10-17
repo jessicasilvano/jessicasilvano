@@ -1,9 +1,9 @@
 <html>
    <head>
-      <link rel="stylesheet" href="devicon.css">
-   </head>   
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+   </head> 
    <body>
-     <i class="devicon-git-plain"></i>
+     <i class="devicon-apple-original colored"></i>
      <h1 align="center"> Hi, I'm Jessica Silvano</h1>     
      <h3 align="center"> I'm a web and mobile developer on the rise!</h3> 
       <h2 align="center">Bio</h2>
@@ -14,11 +14,18 @@
      <br>
       <h2 align="center">Technologies I currently work on</h2>
       <dl align="center">
-         <dt>Languages :</dt>
-         <dd>- Java, JavaScript</dd>
-         <dt>Frameworks or Technologies :</dt>
-         <dd>- HTML5, CSS3, Bootstrap, Sql
-         </dd>
+         <dt>Languages and Tools:</br></dt>
+         <dd>  
+            <img src="https://img.icons8.com/color/32/000000/chrome--v1.png"/>
+            <img src="https://img.icons8.com/color/32/000000/visual-studio-code-2019.png"/>
+            <img src="https://img.icons8.com/color/32/000000/html-5.png"/>
+            <img src="https://img.icons8.com/color/32/000000/css3.png"/>
+            <img src="https://img.icons8.com/color/32/000000/javascript.png"/>
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="32" height="32"/>
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="32" height="32"/>
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="32" height="32"/>            
+            <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="32" height="32"/>
+         </dd>      
       </dl>
       <h2 align="center">Follow me on</h2>
       <h2 align="center">
@@ -37,22 +44,7 @@
          <a href="https://telegram.me/jess_silvano">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
          </a> 
-        <!--
-         <p>I'm a 2019 Computer Engineering Graduate from Pune University, currently working as Software Developer, at TIAA GBS Pune. Worked on ML and NLP for my Final Year Project. Developed and Deployed an Android app on Playstore as an hobby project.
-         </p>
-        <a href="https://www.instagram.com/madebygaurav">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://discord.gg/2RHSUwy">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Discord_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://play.google.com/store/apps/dev?id=7300960281868524728">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/GooglePlay_black.png" width="32" height="32"/>
-         </a>
-        -->
-      </h2>
-      <details align="center">
-         <summary><b>More About Me</b><br></summary>
+      </h2>   
             <div>               
                <center>
                   <table>
