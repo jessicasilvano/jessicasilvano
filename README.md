@@ -7,10 +7,10 @@
      <h1 align="center"> Hi, I'm Jessica Silvano</h1>     
      <h3 align="center"> I'm a web and mobile developer on the rise!</h3> 
       <h2 align="center">Bio</h2>
-         <img align="right" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"  width="100"/>
-         <p align="center">        
-         I'm currently learning Javascript and improving my skills in HTML and CSS<br>        
-      </p>
+         <div align="center">
+            <img align="right" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"  width="100"/>
+            <p align="center">I'm currently learning Javascript and improving my skills in HTML and CSS</p>
+         </div>   
      <br>
       <h2 align="center">Technologies I currently work on</h2>
       <dl align="center">
@@ -53,7 +53,6 @@
       </h2>
       <details align="center">
          <summary><b>More About Me</b><br></summary>
-         <div>
             <div>               
                <center>
                   <table>
