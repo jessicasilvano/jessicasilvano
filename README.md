@@ -7,8 +7,8 @@
      <h1 align="center"> Hi, I'm Jessica Silvano</h1>     
      <h3 align="center"> I'm a web and mobile developer on the rise!</h3> 
       <h2 align="center">Bio</h2>
-      <p align="center">
-        <img align="right" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"  width="100"/>
+         <img align="right" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"  width="100"/>
+         <p align="center">        
          I'm currently learning Javascript and improving my skills in HTML and CSS<br>        
       </p>
      <br>
