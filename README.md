@@ -50,15 +50,16 @@
       <details align="center">
          <summary><b>More About Me</b><br></summary>
          <div>
-            <div>
-               <b>
-                  <h3>My Stats</h3>
-                  <a href="https://github.com/jessicasilvano/github-readme-stats/actions">
-                  <img alt="jessicasilvano's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=jessicasilvano&show_icons=true&title_color=4078c0&icon_color=6cc644&text_color=333&bg_color=f5f5f5"/>
-                  </a>
-               </b>
-            </div>          
-             
+            <div>               
+               <center>
+                  <table>
+                     <tr>
+                        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasilvano&hide=html&layout=compact&theme=buefy" /></td>
+                        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jessicasilvano&theme=buefy"/></td>
+                     </tr>   
+                  </table>
+               </center>  
+            </div> 
    </body>
 </html>
 
