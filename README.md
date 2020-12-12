@@ -4,12 +4,11 @@
    </head> 
    <body>
      <i class="devicon-apple-original colored"></i>
-     <h1 align="center"> Hi, I'm Jessica Silvano</h1>     
-     <h3 align="center"> I'm a web and mobile developer on the rise!</h3> 
-      <h2 align="center">Bio</h2>
+     <h1 align="center"> Hi, I'm Jessica Silvano</h1>
          <div align="center">
             <img align="right" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"  width="100"/>
-            <p align="center">I'm currently learning Javascript and improving my skills in HTML and CSS</p>
+            <p align="center">- 🔭 I’m currently looking for a job in development area </p>
+            <p align="center">- 🌱 I’m currently learning Front-End development </p>
          </div>   
      <br>
       <h2 align="center">Technologies I currently work on</h2>
