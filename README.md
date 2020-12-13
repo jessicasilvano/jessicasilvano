@@ -4,12 +4,9 @@
    </head> 
    <body>
      <i class="devicon-apple-original colored"></i>
-     <h1 align="center"> Hi, I'm Jessica Silvano</h1>
-         <div align="center">
-            <img align="right" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"  width="100"/>
-            <p align="center">- 🔭 I’m currently looking for a job in development area </p>
-            <p align="center">- 🌱 I’m currently learning Front-End development </p>
-         </div>   
+     <h1 align="center"> Hi, I'm Jessica Silvano <img align="center" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"  width="100"/></h1>  
+     <p>- 🔭 I’m currently looking for a job in development area </p>
+     <p>- 🌱 I’m currently learning Front-End development </p>         
      <br>
       <h2 align="center">Technologies I currently work on</h2>
       <dl align="center">
