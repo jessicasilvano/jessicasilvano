@@ -31,19 +31,19 @@
       <h2 align="center">Follow me on</h2>
       <h2 align="center">
          <a href="https://twitter.com/jess_silvano">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Twitter_white.png" width="32" height="32"/>
          </a>
          <a href="https://www.linkedin.com/in/jessicasilvano">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png" width="32" height="32"/>
          </a>        
          <a href="http://www.behance.net/jessicasilvano">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Behance_black.png" width="32" height="32"/>
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Behance_white.png" width="32" height="32"/>
          </a>
          <a href="mailto:jessicasilvano@outlook.com">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png" width="32" height="32"/>
          </a>
          <a href="https://telegram.me/jess_silvano">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Telegram_white.png" width="32" height="32"/>
          </a> 
       </h2>   
             <div>               
