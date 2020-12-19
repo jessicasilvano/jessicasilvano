@@ -1,15 +1,11 @@
 <html>
-   <head>
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-   </head> 
    <body>
-     <i class="devicon-apple-original colored"></i>
      <h2 align="center"> Hi, I'm Jessica Silvano  <img align="center" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"  width="100"/></h2>
-     <h1> 
+     <h2> 
      <a href="https://www.linkedin.com/in/jessicasilvano"><img align="left" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicasilvano/"/></a>
      <a href="https://twitter.com/jess_silvano"><img align="left" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2"/></a>
      <a href="mailto:jessicasilvano@outlook.com"><img align="left" src="https://img.shields.io/badge/-jessicasilvano@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicasilvano@outlook.com"/></a>
-     </h1>   
+     </h2>   
      <p>👩 I'm Jéssica Silvano, programming student, technology enthusiast and active participant in meetups, bootcamps and workshops.</p> 
      <p>🎓 Graduated in the Informatics Technician course by Senac.</p>
      <p>💼 Freelance web developer.</p>
@@ -22,7 +18,7 @@
                   <table>
                      <tr>
                         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasilvano&hide=html&layout=compact&theme=react" /></td>
-                        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jessicasilvano&theme=react&show_icons=true"/></td>
+                        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=jessicasilvano&theme=react&show_icons=true"/></td>
                      </tr>   
                   </table>
                </center>  
