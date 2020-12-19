@@ -11,21 +11,6 @@
      <p>📚 I've been directing my studies in web development and here you will find several projects developed in Javascript, jQuery e Angular.</p>
      <p>🌱 I’m currently learning javascript, jQuery, Java, MySQL and improving my skills in HTML and CSS.</p>
      <br>
-      <h2 align="center">Technologies I currently work on</h2>
-      <dl align="center">
-         <dt>Languages and Tools:</br></dt>
-         <dd>  
-            <img src="https://img.icons8.com/color/32/000000/chrome--v1.png"/>
-            <img src="https://img.icons8.com/color/32/000000/visual-studio-code-2019.png"/>
-            <img src="https://img.icons8.com/color/32/000000/html-5.png"/>
-            <img src="https://img.icons8.com/color/32/000000/css3.png"/>
-            <img src="https://img.icons8.com/color/32/000000/javascript.png"/>
-            <img src="https://img.icons8.com/color/32/000000/java.png"/>
-            <img src="https://img.icons8.com/color/32/000000/php.png"/>
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="32" height="32"/>
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="32" height="32"/>            
-         </dd>      
-      </dl>
       <h2 align="center">Follow me on</h2>
       <h2 align="center">
          <a href="https://twitter.com/jess_silvano">
