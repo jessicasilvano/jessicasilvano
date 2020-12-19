@@ -9,7 +9,7 @@
      <p>🎓 Graduated in the Informatics Technician course by Senac.</p>
      <p>💼 Freelance web developer.</p>
      <p>📚 I've been directing my studies in web development and here you will find several projects developed in Javascript, jQuery e Angular.</p>
-     <p>🌱 I’m currently learning javascript, jQuery, Java, MySQL and improving my abilities in HTML and CSS.</p>
+     <p>🌱 I’m currently learning javascript, jQuery, Java, MySQL and improving my skills in HTML and CSS.</p>
      <br>
       <h2 align="center">Technologies I currently work on</h2>
       <dl align="center">
