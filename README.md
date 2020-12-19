@@ -6,7 +6,7 @@
      <i class="devicon-apple-original colored"></i>
      <h2 align="center"> Hi, I'm Jessica Silvano  <img align="center" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"  width="100"/></h2>  
      <p>👩 I'm Jéssica Silvano, programming student, technology enthusiast and active participant in meetups, bootcamps and workshops.</p> 
-     <p>🎓 Graduated in the technical course in computing by Senac.</p>
+     <p>🎓 Graduated in the Informatics Technician course by Senac.</p>
      <p>💼 Freelance web developer.</p>
      <p>📚 I've been directing my studies in web development and here you will find several projects developed in Javascript, jQuery e Angular.</p>
      <p>🌱 I’m currently learning javascript, jQuery, Java, MySQL and improving my abilities in HTML and CSS.</p>
