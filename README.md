@@ -1,6 +1,7 @@
 <h2 align="center"> Hi, I'm Jessica Silvano  <img align="center" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"  width="100"/></h2>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jessicasilvano/)](https://github.com/jessicasilvano/)
+[![CodePen Badge](https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=CodePen&logoColor=white&link=https://codepen.io/jess-silvano)](https://codepen.io/jess-silvano)
 [![Behance Badge](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/jessicasilvano/)](https://github.com/jessicasilvano/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/jessicasilvano/)](https://github.com/jessicasilvano/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jess_silvano)](https://twitter.com/jess_silvano)
