@@ -4,30 +4,18 @@
    </head> 
    <body>
      <i class="devicon-apple-original colored"></i>
-     <h2 align="center"> Hi, I'm Jessica Silvano  <img align="center" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"  width="100"/></h2>  
+     <h2 align="center"> Hi, I'm Jessica Silvano  <img align="center" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"  width="100"/></h2>
+     <h1> 
+     <a href="https://www.linkedin.com/in/jessicasilvano"><img align="left" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicasilvano/"/></a>
+     <a href="https://twitter.com/jess_silvano"><img align="left" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2"/></a>
+     <a href="mailto:jessicasilvano@outlook.com"><img align="left" src="https://img.shields.io/badge/-jessicasilvano@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicasilvano@outlook.com"/></a>
+     </h1>   
      <p>👩 I'm Jéssica Silvano, programming student, technology enthusiast and active participant in meetups, bootcamps and workshops.</p> 
      <p>🎓 Graduated in the Informatics Technician course by Senac.</p>
      <p>💼 Freelance web developer.</p>
      <p>📚 I've been directing my studies in web development and here you will find several projects developed in Javascript, jQuery e Angular.</p>
      <p>🌱 I’m currently learning javascript, jQuery, Java, MySQL and improving my skills in HTML and CSS.</p>
      <br>
-      <h2 align="center">Follow me on</h2>
-      <h2 align="center">
-         <a href="https://twitter.com/jess_silvano">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" width="32" height="32"/>
-         </a>
-         <a href="https://www.linkedin.com/in/jessicasilvano">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="32" height="32"/>
-         </a>        
-         <a href="http://www.behance.net/jessicasilvano">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Behance.png" width="32" height="32"/>
-         </a>
-         <a href="mailto:jessicasilvano@outlook.com">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width="32" height="32"/>
-         </a>
-         <a href="https://telegram.me/jess_silvano">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" width="32" height="32"/>
-         </a> 
       </h2>   
             <div>               
                <center>
