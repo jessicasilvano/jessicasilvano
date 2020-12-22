@@ -5,7 +5,7 @@
 [![Behance Badge](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/jessicasilvano/)](https://github.com/jessicasilvano/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/jessicasilvano/)](https://github.com/jessicasilvano/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jess_silvano)](https://twitter.com/jess_silvano)
-[![Outlook Badge](https://img.shields.io/badge/-jessicasilvano@outlook.com-0078D4?style=flat-square&logo=Microsoftoutlook&logoColor=white&link=mailto:jessicasilvano@outlook.com)](mailto:jessicasilvano@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-jessicasilvano@outlook.com-0078D4?style=flat-square&logo=Outlook&logoColor=white&link=mailto:jessicasilvano@outlook.com)](mailto:jessicasilvano@outlook.com)
 
 <p>👩 I'm Jéssica Silvano, programming student, technology enthusiast and active participant in meetups, bootcamps and workshops.</p> 
 <p>🎓 I have a degree in the Informatics Technician course by Senac.</p>
