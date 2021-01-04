@@ -10,7 +10,7 @@
 <p>👩 I'm Jéssica Silvano, programming student, technology enthusiast and active participant in meetups, bootcamps and workshops.</p> 
 <p>🎓 I have a degree in the Informatics Technician course by Senac.</p>
 <p>🦄 Skills: HTML5, CSS3, JavaScript, jQuery and Bootstrap</p>
-<p>💼 Tools: Visual Studio Code, PhotoShop, Figma, Netlify, Git and GitHub.</p>
+<p>🛠 Tools: Visual Studio Code, PhotoShop, Figma, Netlify, Git and GitHub.</p>
 <!--<p>🦄 Skills: HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize and UI Design.</p>
 <p>💼 Tools: Visual Studio Code, Gulp, PhotoShop, Figma, Netlify, Git and GitHub.</p>
 <p>💼 Freelance web developer.</p>
