@@ -11,6 +11,7 @@
 <p>🎓 I have a degree in the Informatics Technician course by Senac.</p>
 <p>🦄 Skills: HTML5, CSS3, JavaScript, jQuery, Bootstrap and MySQL</p>
 <p>🛠 Tools: Visual Studio Code, Photoshop, Illustrator, Adobe XD, Figma, Netlify, Git and GitHub.</p>
+<p>👨‍💻 My portfolio: <a href="https://jessicasilvano.github.io/">https://jessicasilvano.github.io/</a></p>
 <!--<p>🦄 Skills: HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize and UI Design.</p>
 <p>💼 Tools: Visual Studio Code, Gulp, PhotoShop, Figma, Netlify, Git and GitHub.</p>
 <p>💼 Freelance web developer.</p>
