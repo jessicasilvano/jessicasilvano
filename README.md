@@ -24,7 +24,7 @@
                <table>
                     <tr>
                          <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasilvano&hide=html&layout=compact&theme=react" /></td>
-                         <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=jessicasilvano&theme=react&show_icons=true"/></td>
+                         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=jessicasilvano&theme=react&show_icons=true"/></td>
                     </tr>   
                </table>
           </center>  
