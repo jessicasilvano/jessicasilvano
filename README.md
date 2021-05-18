@@ -9,7 +9,7 @@
 
 <p>👩 I'm Jéssica Silvano, programming student, technology enthusiast and active participant in meetups, bootcamps and workshops.</p> 
 <p>🎓 I have a degree in the Informatics Technician course by Senac.</p>
-<p>🦄 Skills: HTML5, CSS3, JavaScript, jQuery, WordPress and MySQL</p>
+<p>🦄 Skills: HTML5, CSS3, JavaScript</p>
 <p>🛠 Tools: Visual Studio Code, Photoshop, Illustrator, Adobe XD, Figma, Netlify, Git and GitHub.</p>
 <p>👨‍💻 My portfolio: <a href="https://jessicasilvano.github.io/">https://jessicasilvano.github.io/</a></p>
 <!--<p>🦄 Skills: HTML5, CSS3, JavaScript, Sass, Bootstrap, Materialize and UI Design.</p>
